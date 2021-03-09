@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Desktop\C#\flappyBirdGame\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#\flappyBirdGame\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.Form1.resources
+C:\Users\User\OneDrive\Desktop\C#\flappyBirdGame\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\C#\flappyBirdGame\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\C#\flappyBirdGame\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#\flappyBirdGame\FlappyBirdWindowsForm\FlappyBirdWindowsForm\bin\Debug\FlappyBirdWindowsForm.exe.config
+C:\Users\User\OneDrive\Desktop\C#\flappyBirdGame\FlappyBirdWindowsForm\FlappyBirdWindowsForm\bin\Debug\FlappyBirdWindowsForm.exe
+C:\Users\User\OneDrive\Desktop\C#\flappyBirdGame\FlappyBirdWindowsForm\FlappyBirdWindowsForm\bin\Debug\FlappyBirdWindowsForm.pdb
+C:\Users\User\OneDrive\Desktop\C#\flappyBirdGame\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.exe
+C:\Users\User\OneDrive\Desktop\C#\flappyBirdGame\FlappyBirdWindowsForm\FlappyBirdWindowsForm\obj\Debug\FlappyBirdWindowsForm.pdb
