@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Desktop\C#\bounceAnimation\bouncingBall\bouncingBall\obj\Debug\bouncingBall.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#\bounceAnimation\bouncingBall\bouncingBall\obj\Debug\bouncingBall.Form1.resources
+C:\Users\User\OneDrive\Desktop\C#\bounceAnimation\bouncingBall\bouncingBall\obj\Debug\bouncingBall.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\C#\bounceAnimation\bouncingBall\bouncingBall\obj\Debug\bouncingBall.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\C#\bounceAnimation\bouncingBall\bouncingBall\obj\Debug\bouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#\bounceAnimation\bouncingBall\bouncingBall\bin\Debug\bouncingBall.exe.config
+C:\Users\User\OneDrive\Desktop\C#\bounceAnimation\bouncingBall\bouncingBall\bin\Debug\bouncingBall.exe
+C:\Users\User\OneDrive\Desktop\C#\bounceAnimation\bouncingBall\bouncingBall\bin\Debug\bouncingBall.pdb
+C:\Users\User\OneDrive\Desktop\C#\bounceAnimation\bouncingBall\bouncingBall\obj\Debug\bouncingBall.exe
+C:\Users\User\OneDrive\Desktop\C#\bounceAnimation\bouncingBall\bouncingBall\obj\Debug\bouncingBall.pdb
