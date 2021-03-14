@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Desktop\C#\memeCreator\memeCreator\memeCreator\bin\Debug\memeCreator.exe.config
+C:\Users\User\OneDrive\Desktop\C#\memeCreator\memeCreator\memeCreator\bin\Debug\memeCreator.exe
+C:\Users\User\OneDrive\Desktop\C#\memeCreator\memeCreator\memeCreator\bin\Debug\memeCreator.pdb
+C:\Users\User\OneDrive\Desktop\C#\memeCreator\memeCreator\memeCreator\obj\Debug\memeCreator.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#\memeCreator\memeCreator\memeCreator\obj\Debug\memeCreator.Form1.resources
+C:\Users\User\OneDrive\Desktop\C#\memeCreator\memeCreator\memeCreator\obj\Debug\memeCreator.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\C#\memeCreator\memeCreator\memeCreator\obj\Debug\memeCreator.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\C#\memeCreator\memeCreator\memeCreator\obj\Debug\memeCreator.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#\memeCreator\memeCreator\memeCreator\obj\Debug\memeCreator.exe
+C:\Users\User\OneDrive\Desktop\C#\memeCreator\memeCreator\memeCreator\obj\Debug\memeCreator.pdb
