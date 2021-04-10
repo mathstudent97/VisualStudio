@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\bin\Debug\PACmanGame.exe.config
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\bin\Debug\PACmanGame.exe
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\bin\Debug\PACmanGame.pdb
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\PACmanGame.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\PACmanGame_MarkupCompile.cache
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\PACmanGame_MarkupCompile.lref
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\PACmanGame.g.resources
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\PACmanGame.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\PACmanGame.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\PACmanGame.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\PACmanGame.exe
+C:\Users\User\OneDrive\Desktop\C#\PACmanGame\PACmanGame\obj\Debug\PACmanGame.pdb
